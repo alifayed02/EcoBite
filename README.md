@@ -1,5 +1,7 @@
 # EcoBite (Backend)
 ## 🏆 This project won 1st place in TreeHacks 2025 (FlutterFlow Sponsor Prize) 🏆
+[Devpost Link](https://devpost.com/software/ecobite-qcujae)
+
 Track your food waste in a gamefied way
 ![IMG_6023](https://github.com/user-attachments/assets/a3e4a5c0-65df-4eec-951e-76bc0de39207)
 ![IMG_8865](https://github.com/user-attachments/assets/95b6c973-9c4a-4a92-8323-d89a724e76fb)
